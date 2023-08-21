@@ -18,8 +18,8 @@ Here are some of the exciting projects I've been working on:
 
 ### Machine Learning Magic
 
-- **Project:** [heightWeightPrediction]
-- **Description:** [Predict weight from height using linear regression. Gain ML fundamentals, data prep, model training. Solve weight estimation challenges.]
+- **Project:** heightWeightPrediction
+- **Description:** Predict weight from height using linear regression. Gain ML fundamentals, data prep, model training. Solve weight estimation challenges.
 - **Repository:** [Link to Repository](TBC)
 
 ### Graphics Galore
@@ -30,8 +30,8 @@ Here are some of the exciting projects I've been working on:
 
 ### C++ Mastery
 
-- **Project:** [CelsiusConverterQt]
-- **Description:** [An interactive C++ project utilizing Qt GUI for Celsius to Fahrenheit temperature conversion. Develop GUI skills, practice C++ programming, and understand event-driven programming techniques while building a user-friendly utility.]
+- **Project:** CelsiusConverterQt
+- **Description:** An interactive C++ project utilizing Qt GUI for Celsius to Fahrenheit temperature conversion. Develop GUI skills, practice C++ programming, and understand event-driven programming techniques while building a user-friendly utility.
 - **Repository:** [Link to Repository](TBC)
 
 ## Goals
