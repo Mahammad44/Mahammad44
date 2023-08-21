@@ -46,4 +46,4 @@ My coding journey is ongoing, and here are some of my goals:
 
 I'm always eager to connect with fellow programmers, learners, and enthusiasts. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mahammad44) to discuss coding, projects, and opportunities.
 
-Let's code together and make our programming journey extraordinary!
+Thank you for taking the time to read!
