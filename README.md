@@ -24,7 +24,7 @@ Here are some of the exciting projects I've been working on:
 
 ### Graphics Galore
 
-- **Project:** [TBC]
+- **Project:** [DigitalDashQT]
 - **Description:** [TBC]
 - **Repository:** [Link to Repository](TBC)
 
