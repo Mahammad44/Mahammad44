@@ -1,4 +1,4 @@
-# Welcome to My Coding Journey!
+# Welcome
 
 ## Introduction
 
