@@ -3,7 +3,7 @@
 ## Introduction
 
 Hi, my name is Mahammad, an enthusiast in the realms of machine learning, graphics and embedded systems. I'm excited to be on this coding journey to explore the fascinating worlds of these technologies.
-While I'm still honing my skills, my passion drives me to delve into projects and ideas that showcase my interest in machine learning and graphics.
+While I'm still honing my skills, my passion drives me to delve into projects and ideas that showcase my interest in.
 
 - **Name:** Mahammad
 - **Location:** London, UK
