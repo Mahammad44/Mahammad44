@@ -16,19 +16,19 @@ While I'm still honing my skills, my passion drives me to delve into projects an
 
 Here are some of the exciting projects I've been working on:
 
-### Machine Learning Magic
+### Machine Learning
 
 - **Project:** heightWeightPrediction
 - **Description:** Predict weight from height using linear regression. Gain ML fundamentals, data prep, model training. Solve weight estimation challenges.
 - **Repository:** [Link to Repository](TBC)
 
-### Graphics Galore
+### Graphics
 
 - **Project:** [DigitalDashQT]
 - **Description:** [TBC]
 - **Repository:** [Link to Repository](TBC)
 
-### C++ Mastery
+### C++ 
 
 - **Project:** CelsiusConverterQt
 - **Description:** An interactive C++ project utilizing Qt GUI for Celsius to Fahrenheit temperature conversion. Develop GUI skills, practice C++ programming, and understand event-driven programming techniques while building a user-friendly utility.
